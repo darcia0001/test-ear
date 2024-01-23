@@ -6,7 +6,7 @@
 
 
 
-    <name>todoEAR</name>
+    <name>todo</name>
     <groupId>com.example</groupId>
     <artifactId>ejb-parent</artifactId>
     <version>1.0.0</version>
